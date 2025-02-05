@@ -11,6 +11,17 @@
 
 - ⚡ Fun fact: **I love watching movies, Reading Novels and doing coding challenges on CodeWars**
 
+#🧪 Software Testing  
+
+I believe in writing clean, maintainable, and **well-tested code**. My testing workflow includes:  
+✅ **Unit Testing** – Writing reliable tests with **Jest**  
+✅ **Integration Testing** – Testing API endpoints using **Supertest**  
+✅ **End-to-End Testing** – Exploring **Cypress** for full application tests  
+✅ **Test-Driven Development (TDD)** – Writing tests before implementation  
+
+I’m always improving my testing skills to ensure **high-quality, bug-free applications**.  
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
