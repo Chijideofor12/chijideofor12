@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chika 👋,</h1>
+<h1 align="center">Hi, I'm  Chika 👋</h1>
 <h3 align="center">I am a passionate Full Stack Developer | Building Scalable Web Applications</h3>
 
 - 🔭 I’m currently working with: **NodeJS,  ExpressJS   and ReactJS**
