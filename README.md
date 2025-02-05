@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chika 👋,</h1>
 <h3 align="center">I am a passionate Full Stack Developer | Building Scalable Web Applications</h3>
 
-- 🔭 I’m currently working with: **NodeJS, ExpressJS and ReactJS**
+- 🔭 I’m currently working with: **NodeJS,  ExpressJS   and ReactJS**
 
 - 🌱 I’m currently learning: **Figma**
 
@@ -14,9 +14,13 @@
 #🧪 Software Testing  
 
 I believe in writing clean, maintainable, and **well-tested code**. My testing workflow includes:  
-✅ **Unit Testing** – Writing reliable tests with **Jest**  
-✅ **Integration Testing** – Testing API endpoints using **Supertest**  
+
+✅ **Unit Testing** – Writing reliable tests with **Jest** 
+
+✅ **Integration Testing** – Testing API endpoints using **Supertest** 
+
 ✅ **End-to-End Testing** – Exploring **Cypress** for full application tests  
+
 ✅ **Test-Driven Development (TDD)** – Writing tests before implementation  
 
 I’m always improving my testing skills to ensure **high-quality, bug-free applications**.  
