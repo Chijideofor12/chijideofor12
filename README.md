@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Chika 👋,</h1>
 <h3 align="center">I am a passionate Full Stack Developer | Building Scalable Web Applications</h3>
 
-- 🔭 I’m currently working with **NodeJS, ExpressJS and ReactJS**
+- 🔭 I’m currently working with: **NodeJS, ExpressJS and ReactJS**
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning: **Figma**
 
-- 👯 I’m looking to collaborate with **Software Developers**
+- 👯 I’m looking to collaborate with: **Software Developers**
 
-- 💬 send a message for collab or chat **pammyjideofor1@hotmail.co.uk**
+- 💬 send a message for collab or chat: **pammyjideofor1@hotmail.co.uk**
 
-- ⚡ Fun fact **I watching movies, Reading Novels and doing coding challenges on CodeWars**
+- ⚡ Fun fact: **I love watching movies, Reading Novels and doing coding challenges on CodeWars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
