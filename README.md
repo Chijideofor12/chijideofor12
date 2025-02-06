@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working with: **NodeJS,  ExpressJS   and ReactJS**
 
-- 🌱 I’m currently learning: **Figma**
-
 - 👯 I’m looking to collaborate with: **Software Developers**
 
 - 💬 send a message for collab or chat: **pammyjideofor1@hotmail.co.uk**
